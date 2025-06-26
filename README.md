@@ -39,7 +39,7 @@ Green LED: Safe state (BAL < 0.03%).
 
 Red LED: Not safe (BAL ≥ 0.03%), triggers the buzzer.
 
-Yellow LED: Prompt to blow into the sensor.
+Blue LED: Prompt to blow into the sensor.
 
 Humidity data from DHT11 for demonstration and environmental context.
 
